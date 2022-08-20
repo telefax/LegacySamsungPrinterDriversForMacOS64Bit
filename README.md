@@ -18,7 +18,7 @@ Tested on MacOS Monterey (MacOS 12.4) with Samsung ML-1660.
 1. Download the files from the repo.
 2. Open a terminal and copy the files to the following locations 
 
-```sudo tar zxvf Samsung.xz --directory /Library/Printers/```
+```sudo tar zvxf Samsung.xz --directory /Library/Printers/```
 
 ```sudo tar zvxf PPDs.tar.gz --directory /Library/Printers/```
 
