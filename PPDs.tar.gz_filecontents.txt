@@ -1,0 +1,39 @@
+PPDs
+PPDs/Contents
+PPDs/Contents/Resources
+PPDs/Contents/Resources/Samsung_ML_1660_Series.ppd
+PPDs/Contents/Resources/Samsung C3010 Series.gz
+PPDs/Contents/Resources/en.lproj
+PPDs/Contents/Resources/Samsung C51x Series.gz
+PPDs/Contents/Resources/Samsung M301x Series.gz
+PPDs/Contents/Resources/Samsung C48x Series.gz
+PPDs/Contents/Resources/Samsung M288x Series.gz
+PPDs/Contents/Resources/Samsung C406x Series.gz
+PPDs/Contents/Resources/Samsung M2060 Series.gz
+PPDs/Contents/Resources/Samsung SF-760 Series.gz
+PPDs/Contents/Resources/Samsung M203x Series.gz
+PPDs/Contents/Resources/Samsung M2010 Series.gz
+PPDs/Contents/Resources/Samsung X3220 Series.gz
+PPDs/Contents/Resources/Samsung C401x Series.gz
+PPDs/Contents/Resources/Samsung M332x 382x 402x Series.gz
+PPDs/Contents/Resources/Samsung M306x Series.gz
+PPDs/Contents/Resources/Samsung C351x Series.gz
+PPDs/Contents/Resources/Samsung M403x Series.gz
+PPDs/Contents/Resources/Samsung M456x Series.gz
+PPDs/Contents/Resources/Samsung ML-2160 Series.gz
+PPDs/Contents/Resources/Samsung C3060 Series.gz
+PPDs/Contents/Resources/Samsung M267x 287x Series.gz
+PPDs/Contents/Resources/Samsung M263x_M284x Series.gz
+PPDs/Contents/Resources/Samsung M2070 Series.gz
+PPDs/Contents/Resources/Samsung M337x 387x 407x Series.gz
+PPDs/Contents/Resources/Samsung M2020 Series.gz
+PPDs/Contents/Resources/Samsung K302 Series.gz
+PPDs/Contents/Resources/Samsung M408x Series.gz
+PPDs/Contents/Resources/Samsung M262x 282x Series.gz
+PPDs/Contents/Resources/Samsung C268x Series.gz
+PPDs/Contents/Resources/Samsung SCX-4650 4x21S.gz
+PPDs/Contents/Resources/Samsung K3250 Series.gz
+PPDs/Contents/Resources/Samsung M283x Series.gz
+PPDs/Contents/Resources/Samsung C43x Series.gz
+PPDs/Contents/Resources/Samsung SCX-3400 Series.gz
+PPDs/Contents/Resources/Samsung K2200 Series.gz
