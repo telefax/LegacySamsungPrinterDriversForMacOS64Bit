@@ -1,4 +1,4 @@
-# MacOS Samsung Drivers for ML-1660 laser printer (and probably more printers)
+# Old MacOS Samsung Drivers for ML-1660 laser printer (and probably more printers)
 
 These drivers/files are taken from the official install of the Samsung laser printer ML-1660, which are since long gone after HP acquired Samsung printer business.
 
