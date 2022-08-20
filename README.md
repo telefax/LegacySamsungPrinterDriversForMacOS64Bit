@@ -18,9 +18,9 @@ Tested on MacOS Monterey (MacOS 12.4) with Samsung ML-1660.
 1. Download the files from the repo.
 2. Open a terminal and copy the files to the following locations 
 
-```sudo tar zvxf Samsung.tar.gz --directory /Library/Printers/```
+```sudo tar zxvf Samsung.xz --directory /Library/Printers/```
 
-```sudo tar zvxf PPDs.tar.gz--directory /Library/Printers/```
+```sudo tar zvxf PPDs.tar.gz --directory /Library/Printers/```
 
 3. Go into MacOS System Preferences -> Printers & Scanners -> Plus sign (+) to install a new printer.
    If the printer is powered on, you should see it listed in the "Add Printer" dialogue.
